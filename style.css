@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Gupter", serif;
+}
+
+.header{
+    background-color: rgb(223, 221, 221);
+    height: 35px;
+    
+}
+.row{
+    position: sticky;
+    top:0;
+    background-color: white;
+    z-index: 1;
+}
+
+.col{
+    display: flex;
+    cursor: pointer;
+
+}
+
+
+.qwe{ 
+     margin: 10px;
+    margin-top: -1px;
+    margin-left: 900px;
+}
+
+   
+.row{
+    text-align: center;
+    display: flex;
+}
+.col ul{
+    display: flex;
+    margin-left: 70px;
+    cursor: pointer;
+
+}
+.vv{
+    margin: 10px;
+}
+
+
+.col ul li{
+        margin: 20px;
+        font-size: 15px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+}
+.col ul li:hover{
+    text-decoration: underline;
+}
+
+.imggg{
+    margin-top: 20px;
+    margin-left: 50px;
+
+}
+.ss{
+    border-radius: 50px;
+}
+
+.ii{
+    margin-top: 20px;
+    
+}
+.nn{
+    object-fit: cover;
+}
+.container{
+    text-align: center;
+}
+.aa{
+    margin-top: 50px;
+
+}
+.aa h1{
+    font-family: "Oswald", sans-serif;
+    font-size: 100px;
+    margin-top:-46px;
+}
+.aa button{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+}
+.aa button:hover{
+    background-color: rgb(177, 165, 165);
+
+}
+.content h3{
+    margin-left:825px;
+}
+.content button{
+    border-radius: 50%;
+    width: 30px;
+}
+.col h3{
+    margin-right: 10px;
+}
+.col button{
+    margin-top:-10px;
+}
+.qq{
+    padding: 10px;
+  
+}
+.cards{
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+.cards2{
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+.content2 button{
+    border-radius: 50%;
+    width: 40px;
+    margin-left: 20px;
+
+}
+.ww{
+    padding: 3px;
+    color: black;
+}
+.card h4{
+    text-decoration:none;
+}
+.yy{
+    margin-top: 50px;
+    text-align: center;
+
+}
+.yy h1{
+    font-family: "Oswald", sans-serif;
+    font-size: 100px;
+    margin-top:-46px;
+}
+.yy button{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 80px;
+    height: 30px;
+
+}
+.yy button:hover{
+    background-color: rgb(163, 163, 163);
+}
+
+.yy p{
+    font-size: 20px;
+}
+.tt{
+    padding: 5px;
+
+    
+}
+.tt h3{
+    margin-top: -50px;
+    margin-left: 80px;
+}
+.content4{
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+
+}
+.content5{
+     overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+
+}
+.gg{
+    padding: 5px;
+}
+
+.gg h5{
+    background-color: white;
+    border: 2px inset black;
+    width: 100px;
+    border-radius: 50px;
+    text-align: center;
+    position: relative;
+    margin-top: -60px;
+    margin-left: 10px;
+    cursor: pointer;
+  
+ }
+ .content6{
+    overflow: auto;
+    padding: 10px;
+    white-space: nowrap;  
+
+ }
+ .gg img{
+    height: 400px;
+
+ }
+ .hh {
+   padding: 5px;
+ }
+ .hh p{
+    color: white;
+    position: relative;
+   bottom: 150px;
+   left: 30px;
+    
+ }
+ .hh h5{
+    color: white;
+    position: relative;
+   bottom: 150px;
+   left: 30px;
+    
+ }
+ .hh p{
+    font-size: 30px;
+ }
+ .hh button{
+    position:relative ;
+    bottom: 150px;
+   left: 50px;
+   border-radius: 50px;
+   width: 100px;
+ }
+ .hh button:hover{
+    background-color: rgb(196, 196, 196);
+ }
+footer{
+    font-size:20px;
+    height: 250px;
+    margin-bottom: 50px;
+    font-size: 15px;
+}
+
+.last p{
+    margin: 10px;
+}
+
+
+
+
+
